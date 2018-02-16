@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pkgmetadata SYSTEM "http://www.gentoo.org/dtd/metadata.dtd">
+<pkgmetadata>
+<maintainer type="person">
+<email>me@tadeo.ca</email>
+<name>Tadeo Kondrak</name>
+</maintainer>
+<longdescription lang="en">
+qMasterPassword is a password manager based on Qt. Access all your passwords using only a single master password. But in contrast to other managers it does not store any passwords: Unique passwords are generated from the master password and a site name.
+</longdescription>
+</pkgmetadata>
