@@ -2,7 +2,8 @@ My personal Gentoo overlay.
 
 Packages:
 
-- qMasterPassword
+- `app-misc/qMasterPassword`
+- `x11-wm/windowchef`
 
 To install, create `/etc/portage/repos.conf/tdeo.conf` with this content:
 ```ini
